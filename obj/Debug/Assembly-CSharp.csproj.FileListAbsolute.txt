@@ -1,0 +1,2 @@
+D:\2.TUC\non obligatory\[COMP416] Graphics\Project\Project_Hotel\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\2.TUC\non obligatory\[COMP416] Graphics\Project\Project_Hotel\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
